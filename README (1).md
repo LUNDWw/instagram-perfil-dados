@@ -46,7 +46,7 @@ Caso esteja no Windows e ocorra erro na instalação do Selenium, instale o Buil
 ## ⚠️ Observações
 
 - Perfis privados só mostrarão a biografia e dados visíveis sem login (no método Selenium).
-- A extração de e-mails e dados privados não é possível sem autenticação.
+- A extração de e-mails e dados privados não é possível sem autenticação...ainda
 - Esse projeto é apenas para fins educacionais. Respeite a privacidade dos usuários.
 
 ---
