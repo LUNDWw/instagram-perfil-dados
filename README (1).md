@@ -66,4 +66,4 @@ options.binary_location = 'CAMINHO_PARA_O_BRAVE'
 
 ## 📂 Créditos
 
-Criado por um estudante de Sistema de informação explorando a prática de OSINT com Python 😄
+Criado por um estudante de Sistema de informação explorando a prática de OSINT com Python 
