@@ -1,4 +1,4 @@
-# Instagram OSINT Coletor
+# Instagram OSINT
 
 Este projeto é uma ferramenta de coleta de informações (OSINT) focada no Instagram, utilizando duas abordagens diferentes: `instaloader` e `selenium`. O usuário pode escolher entre os métodos para obter dados públicos de perfis, como biografia, links e estatísticas (seguidores, seguindo e número de publicações).
 
